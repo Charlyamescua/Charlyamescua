@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comunicación y Fuentes de Información</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #0078d7;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 900px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0078d7;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Comunicación y Fuentes de Información</h1>
+    </header>
+    <nav>
+        <a href="#fuentes">Fuentes de Información</a>
+        <a href="#tipos-info">Tipos de Información</a>
+        <a href="#tipos-comunicacion">Tipos de Comunicación</a>
+        <a href="#elementos">Elementos de la Comunicación</a>
+        <a href="#herramientas">Herramientas Digitales</a>
+        <a href="#entornos">Entornos Digitales</a>
+    </nav>
+    <main>
+        <section id="fuentes">
+            <h2>Fuentes de Información</h2>
+            <p>Las fuentes de información son recursos utilizados para adquirir conocimientos. Se dividen en:</p>
+            <ul>
+                <li><strong>Primarias:</strong> Documentos originales como investigaciones y entrevistas.</li>
+                <li><strong>Secundarias:</strong> Análisis o interpretaciones de fuentes primarias.</li>
+                <li><strong>Terciarias:</strong> Compilaciones como enciclopedias o directorios.</li>
+            </ul>
+        </section>
+        <section id="tipos-info">
+            <h2>Tipos de Información</h2>
+            <ul>
+                <li><strong>Verbal:</strong> Transmitida mediante palabras habladas o escritas.</li>
+                <li><strong>No verbal:</strong> Gestos, posturas o expresiones faciales.</li>
+                <li><strong>Digital:</strong> Contenido compartido en plataformas tecnológicas.</li>
+                <li><strong>Visual:</strong> Imágenes, gráficos o diagramas.</li>
+            </ul>
+        </section>
+        <section id="tipos-comunicacion">
+            <h2>Tipos de Comunicación</h2>
+            <ul>
+                <li><strong>Verbal:</strong> Comunicación hablada o escrita.</li>
+                <li><strong>No verbal:</strong> Gestos y lenguaje corporal.</li>
+                <li><strong>Visual:</strong> Uso de imágenes y símbolos.</li>
+                <li><strong>Digital:</strong> Mediante herramientas tecnológicas.</li>
+            </ul>
+        </section>
+        <section id="elementos">
+            <h2>Elementos de la Comunicación</h2>
+            <ul>
+                <li><strong>Emisor:</strong> Quien transmite el mensaje.</li>
+                <li><strong>Receptor:</strong> Quien recibe el mensaje.</li>
+                <li><strong>Mensaje:</strong> La información comunicada.</li>
+                <li><strong>Canal:</strong> Medio utilizado para transmitir el mensaje.</li>
+                <li><strong>Código:</strong> Sistema de signos compartidos.</li>
+                <li><strong>Contexto:</strong> Circunstancias en las que ocurre la comunicación.</li>
+                <li><strong>Retroalimentación:</strong> Respuesta del receptor.</li>
+            </ul>
+        </section>
+        <section id="herramientas">
+            <h2>Herramientas Digitales de Comunicación</h2>
+            <ul>
+                <li>Correo electrónico</li>
+                <li>Redes sociales (Facebook, Instagram, LinkedIn)</li>
+                <li>Mensajería instantánea (WhatsApp, Telegram)</li>
+                <li>Videoconferencias (Zoom, Google Meet)</li>
+                <li>Gestión de proyectos (Trello, Slack)</li>
+            </ul>
+        </section>
+        <section id="entornos">
+            <h2>Entornos Digitales</h2>
+            <ul>
+                <li><strong>Educativos:</strong> Plataformas como Moodle o Google Classroom.</li>
+                <li><strong>Laborales:</strong> Herramientas como Microsoft 365 o Slack.</li>
+                <li><strong>Sociales:</strong> Redes sociales y foros en línea.</li>
+                <li><strong>Entretenimiento:</strong> Streaming, videojuegos y más.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Comunicación y Fuentes de Información. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+
+<!---
+Charlyamescua/Charlyamescua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
